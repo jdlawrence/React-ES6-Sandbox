@@ -1,0 +1,30 @@
+{
+  "name": "reactES6Sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdlawrence/React-ES6-Sandbox.git"
+  },
+  "keywords": [
+    "react",
+    "ES6"
+  ],
+  "author": "Jamil Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdlawrence/React-ES6-Sandbox/issues"
+  },
+  "homepage": "https://github.com/jdlawrence/React-ES6-Sandbox",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
